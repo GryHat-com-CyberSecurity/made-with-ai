@@ -160,5 +160,26 @@
       "title": "GRYHAT CYBERSECURITY Ai receptionist",
       "views": "7"
     }
+  ],
+  "sites_intro": "Whole sites, not clips. These are client prototypes: built end to end with AI tooling to show a prospect what their business could look like, before a contract exists. Names and links are withheld until the client signs. The craft is the point.",
+  "sites": [
+    {
+      "id": "parking",
+      "title": "Cinematic site for a parking-design consultancy",
+      "sector": "Architecture / engineering, est. 1998, three regional offices",
+      "date": "2026-05",
+      "stack": "Single-page HTML, cinematic intro sequence, video hero, Vercel",
+      "note": "Loader, letterbox bars, and a hero that plays from a 3 MB streaming file. Rebuilt in one evening from the firm's public portfolio.",
+      "shot": "shots/site-parking.jpg"
+    },
+    {
+      "id": "swimwear",
+      "title": "Storefront for a made-in-USA swimwear brand",
+      "sector": "Direct-to-consumer apparel, 575 styles, handmade in California",
+      "date": "2026-09",
+      "stack": "Next.js storefront, collection browsing, VIP club, newsletter, Vercel",
+      "note": "Editorial typography over a planet-from-orbit hero, built to match a brand that already had a following and no site to carry it.",
+      "shot": "shots/site-swimwear.jpg"
+    }
   ]
 }

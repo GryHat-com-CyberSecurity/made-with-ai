@@ -24,11 +24,13 @@ main{{max-width:1100px;margin:auto;padding:16px 24px 64px;display:grid;gap:24px;
 .card{{background:var(--card);border-radius:12px;overflow:hidden}}.frame{{position:relative;background:#000;aspect-ratio:16/9;display:flex;align-items:center;justify-content:center}}
 .frame video,.frame img{{width:100%;height:100%;object-fit:contain}}.soon{{position:absolute;bottom:8px;right:8px;font-size:11px;color:var(--mut);background:#0008;padding:2px 6px;border-radius:4px}}
 h3{{margin:12px 16px 2px;font-size:17px}}.meta{{margin:0 16px;color:var(--acc);font-size:13px}}.card p{{margin:6px 16px 16px;color:var(--mut);font-size:14px}}
-section{{max-width:1100px;margin:auto;padding:0 24px 48px}}ul{{columns:2;gap:24px}}li{{margin:4px 0}}.v{{color:var(--mut);font-size:13px}}
+section{{max-width:1100px;margin:auto;padding:0 24px 48px}}.sites{{display:grid;gap:24px;grid-template-columns:repeat(auto-fill,minmax(320px,1fr))}}ul{{columns:2;gap:24px}}li{{margin:4px 0}}.v{{color:var(--mut);font-size:13px}}
 footer{{text-align:center;color:var(--mut);padding:32px;font-size:13px}}a{{color:var(--acc)}}
 </style></head><body>
 <header><span class="badge">All AI-generated</span><h1>{html.escape(m["title"])}</h1><p>{html.escape(m["intro"])}</p></header>
 <main>{''.join(cards)}</main>
+<section><h2>Built with AI</h2><p style="color:var(--mut);max-width:720px">{html.escape(m.get("sites_intro",""))}</p>
+<div class="sites">{''.join(f'<article class="card"><div class="frame"><img src="{x["shot"]}" alt="{html.escape(x["title"])}"></div><h3>{html.escape(x["title"])}</h3><p class="meta">{html.escape(x["sector"])} · {x["date"]}</p><p>{html.escape(x["note"])}</p><p class="meta" style="color:var(--mut)">{html.escape(x["stack"])}</p></article>' for x in m.get("sites",[]))}</div></section>
 <section><h2>Already on YouTube</h2><p style="color:var(--mut)">On <a href="https://www.youtube.com/@TheCitadelCyber">@TheCitadelCyber</a>.</p><ul>{yt}</ul></section>
 <footer>GRYHAT Cybersecurity · Orange County, California · <a href="https://github.com/TheGRYHAT/iaigacb-framework">IAiGACB</a> · <a href="https://gryhat.com">gryhat.com</a></footer>
 </body></html>''')
