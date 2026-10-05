@@ -1,0 +1,26 @@
+{
+  "title": "Made with AI",
+  "intro": "Every clip on this page was generated or assembled with AI tools by GRYHAT, a human and his AI partner. We label the tools, the brand it was for, and the date, because the point is to show the work, not to pass it off as something else.",
+  "clips": [
+    {"id":"monolith-a","title":"Monolith, dusk, light trail","brand":"GRYHAT","date":"2026-04-19","tool":"Higgsfield","dur":6,"note":"Brand ident test, angle A.","file":"hf_20260419_120700_fc6233ea-e507-4276-ac9b-5a9d1b4bae1d.mp4","src":""},
+    {"id":"monolith-b","title":"Monolith, dusk, light trail (B)","brand":"GRYHAT","date":"2026-04-19","tool":"Higgsfield","dur":6,"note":"Brand ident test, angle B.","file":"hf_20260419_143454_398c52a9-d068-4531-9039-f048e9ab83c5.mp4","src":""},
+    {"id":"airport-demo","title":"Citadel at the airport: scan, detect, protect","brand":"Citadel VPN & WiFi Security","date":"2026-04-20","tool":"Higgsfield","dur":15,"note":"Product demo. Scans the network in 15 seconds, shows every threat in plain English, protects with one tap.","file":"hf_20260420_043507_31a8be6d-1dfc-46f5-a57b-e6364cde90d8.mp4","src":""},
+    {"id":"mech-arena","title":"From the desk to the arena","brand":"GRYHAT","date":"2026-04-19","tool":"Higgsfield","dur":15,"note":"Cinematic concept: a gamer at a desk, then a mech arena on another world.","file":"hf_20260419_162941_c084a779-6e9b-47d9-8939-ce1c19819aba.mp4","src":""},
+    {"id":"storefront","title":"Andy at the storefront","brand":"GRYHAT","date":"2026-04-19","tool":"Higgsfield","dur":15,"note":"Founder as spokesperson, on location with a shop owner. Our own face, generated scene.","file":"hf_20260419_161449_007aa39e-d4ae-4480-b0a2-16b600e64d6a.mp4","src":""},
+    {"id":"maple-street","title":"Maple Street Cafe: join the Citadel","brand":"Citadel VPN & WiFi Security","date":"2026-04-19","tool":"Higgsfield","dur":15,"note":"Field-tech vignette ending on the Join the Citadel card.","file":"hf_20260419_161832_af286ad6-3cce-41a7-9d7f-37ddc5c3c3b4.mp4","src":""},
+    {"id":"yoga-studio","title":"Yoga studio","brand":"Citadel Cyber","date":"2026-04-19","tool":"Higgsfield","dur":15,"note":"Small-business vignette: helping small businesses thrive in the digital age.","file":"hf_20260419_162810_785b8cb2-b8f2-46c5-8c6c-dbf126d5e6c9.mp4","src":""},
+    {"id":"garage","title":"Parking garage","brand":"(unbranded test)","date":"2026-04-29","tool":"Higgsfield","dur":12,"note":"Action and physics test. HOLD: Andy to decide if this belongs on the page.","file":"hf_20260429_102606_b7f9b9dc-5034-4e53-a5a4-8447718f2158.mp4","src":"","hold":true},
+    {"id":"ugc-cafe-her","title":"Cafe demo, spokesmodel","brand":"Citadel VPN & WiFi Security","date":"2026-05-11","tool":"Higgsfield","dur":8,"note":"UGC-style vertical demo with an AI presenter.","file":"hf_20260511_110913_05d1d9bd-31eb-4190-abc8-20dc267f5254.mp4","src":""},
+    {"id":"ugc-cafe-andy","title":"Cafe demo, Andy","brand":"Citadel VPN & WiFi Security","date":"2026-05-21","tool":"Higgsfield","dur":8,"note":"Same demo, founder's face.","file":"hf_20260521_072728_43f22713-709d-4c04-8dd7-44e195cfd8a3.mp4","src":""},
+    {"id":"beach-house","title":"Beach house, sunset","brand":"GRYHAT","date":"2026-05-21","tool":"Higgsfield","dur":15,"note":"Lifestyle piece. Founder's likeness in a generated location.","file":"hf_20260521_202439_e5dc7f9d-2ed3-43d6-8dfd-694854cf64fa.mp4","src":""},
+    {"id":"wall-projection","title":"Scan public WiFi before you trust it","brand":"Citadel VPN & WiFi Security","date":"2026-06-16","tool":"Higgsfield","dur":5,"note":"Out-of-home style: the message projected on a brick wall.","file":"hf_20260616_205138_191ee4ca-74b1-4aab-9278-d5a93d6941a6.mp4","src":""}
+  ],
+  "youtube": [
+    {"title":"Your network is under attack right now. You just don't know it.","views":"1.3K"},
+    {"title":"America Scott","views":"1K"},
+    {"title":"app store video","views":"185"},
+    {"title":"Citadel Guardian WiFi Security","views":"135"},
+    {"title":"Citadel VPN & WiFi Security — AI Network Security for iOS & Android","views":"134"},
+    {"title":"GRYHAT CYBERSECURITY Ai receptionist","views":"7"}
+  ]
+}
